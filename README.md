@@ -11,9 +11,12 @@ Nice to meet you!
 
 * Linux
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbow0210&layout=pie&theme=transparent&langs_count=10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow0210&show_icons=true&theme=transparent)
+![Top Languages Card (Compact layout)](https://github-readme-stats-livid-rho-71.vercel.app/api/top-langs/?username=rainbow0210&layout=pie&theme=transparent&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats-livid-rho-71.vercel.app/api?username=rainbow0210&show_icons=true&theme=transparent)
 
+<!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbow0210&layout=pie&theme=transparent&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow0210&show_icons=true&theme=transparent)
+-->
 
 <!--
 ### Hi there 👋
