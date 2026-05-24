@@ -5,8 +5,7 @@ Nice to meet you!
 
 ## Can be use programing languages and Other...
 
-* C++・Java・JavaScript・Python・PHP
-* C#
+* C++・Java・JavaScript・Python・PHP・C#
 
 * HTML・CSS
 
